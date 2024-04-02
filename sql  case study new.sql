@@ -2675,7 +2675,13 @@ VALUES
   ('1000', '2', '2020-03-26'),
   ('1000', '4', '2020-06-04');
   
-  SELECT COUNT(DISTINCT customer_id) AS total_customers
+ select s.customer_id, p.plan_name, s.start_date
+from subscriptions s
+JOIN plans p ON s.plan_id = p.plan_id;
+
+  
+  /*1. How many customers has Foodie-Fi ever had? */
+SELECT COUNT(DISTINCT customer_id) AS total_customers
 FROM subscriptions;
 
 -- 2. What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
