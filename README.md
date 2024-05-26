@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I’m a Data Analyst.
 
-<!--
-**Faiza778866/Faiza778866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in data analysis, machine learning, and artificial intelligence.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning new techniques in data visualization, deep learning, and cloud computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m looking to collaborate on projects that involve solving complex problems using data-driven approaches.
+
+📫 You can reach me via email at Faizaz778866@gmail.com
+
+😄 Pronouns:
+
+⚡ Fun fact: I enjoy experimenting with through different tools of Data Analysis. Moreover, I like exploring different cultures through travel.
+
+About
+Config files for my GitHub profile.
+https://github.com/Faiza778866
+
+Topics
+config github-config
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Footer
